@@ -1,0 +1,47 @@
+i {
+  border: 1px solid black;
+  padding: 0; }
+
+.text_art_sect3 {
+  width: 23rem;
+  padding: 1rem; }
+
+.text_art_sect4 {
+  width: 14rem;
+  padding: 1rem; }
+
+.text_art_sect5 {
+  width: 23rem;
+  padding: 1rem; }
+
+li {
+  border: 1px solid black;
+  list-style: none;
+  width: 100%; }
+
+.footer {
+  padding: 1rem;
+  width: 14.2%; }
+
+.footer {
+  background-color: black;
+  color: white;
+  border: 1px solid white; }
+
+.footer-0 {
+  padding: 1rem;
+  width: 20%; }
+
+.footer-0:nth-child(2n) {
+  background-color: grey; }
+
+.footer-0:nth-child(2n+1) {
+  background-color: black; }
+
+aside {
+  width: 3%; }
+
+main {
+  width: 97%; }
+
+/*# sourceMappingURL=style.css.map */

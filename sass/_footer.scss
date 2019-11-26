@@ -1,0 +1,24 @@
+.footer{
+    padding: 1rem;
+    width: 14.2%;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+
+
+.footer-0{
+    padding: 1rem;
+    width: 20%;
+}
+
+.footer-0:nth-child(2n){
+    background-color: grey;
+}
+
+.footer-0:nth-child(2n+1){
+    background-color: black;
+}
