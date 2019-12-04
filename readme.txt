@@ -6,3 +6,21 @@ j'ai principalement stylisé en bootstrap pas de gros problème particulier mais
 
 
 
+04/12/19 ->
+
+l'architecture étant finie, je decide d'ajouter le contenu demandé dans les divs.
+1 : La nav, placement des liens de navigation.
+2 : placement et stylisation des 4 menus de navigation.
+3 : ajout et stylisation de l'image de la section 1.
+4 : Ajout du contenu de la div "MON PROFIL" a côté de l'image de la section 1.
+5 : Ajout du contenu et stylisation de la section 2.
+6 : Ajout du contenu et stylisation de la section 3 avec des cards bootstrap.
+7 : Ajout du contenu et stylisation de la section 4.
+8 : Ajout du contenu et stylisation de la section 5 avec des cards bootstrap.
+9 : Ajout du contenu et stylisation de la section 6.
+10 : Ajout du contenu et stylisation de la section 7.
+11 : Ajout du contenu et stylisation de la section 8.
+12 : ajustement de responsive +finition ... couleur etc...
+
+
+
